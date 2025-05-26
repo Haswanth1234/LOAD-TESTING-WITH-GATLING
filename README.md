@@ -78,3 +78,7 @@ Failures
 
 Exportable results for reporting
 
+![Image](https://github.com/user-attachments/assets/ddb3a4a2-2bec-46f5-b063-f02b31dc7337)
+![Image](https://github.com/user-attachments/assets/befef77c-a4aa-4c2e-b6c7-37a0a8fccf2d)
+![Image](https://github.com/user-attachments/assets/4b396dac-bd83-4abb-afe6-3276ca39bc76)
+
